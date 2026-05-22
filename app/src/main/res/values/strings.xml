@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_title">Default App</string>
+    <string name="base_web_url">https://google.com/</string>
+</resources>
